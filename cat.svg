@@ -1,26 +1,10 @@
-<svg width="500" height="350">
-  <style>
-    rect {
-      -moz-transform-origin: 75px 75px;
-      transform-origin: 50% 50%;
-    }
-  </style>
-  <rect id="deepPink-rectangle" width="50" height="50" x="225" y="125" fill="deepPink"  transform="rotate(0) translate(0 0)"/>
-  
-  <animateTransform 
-           xlink:href="#deepPink-rectangle"
-           attributeName="transform" 
-           attributeType="XML"
-           type="rotate"
-           from="0 250 150"
-           to="360 250 150"
-           dur="2s"
-           begin="0s"
-           repeatCount="indefinite"
-           fill="freeze"
-                    
-           />
-  <set xlink:href="#deepPink-rectangle" attributeName="fill"
-       to="#0099AA" begin="click" dur="3s" />
-  
+<svg version="1.1" id="loader-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="40px" height="40px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+     ...
+  <script type="text/javascript">
+        window.addEventListener('load',function(){
+        alert('Hi')
+        })
+    </script>   
+
 </svg>
