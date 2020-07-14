@@ -1,4 +1,4 @@
-<svg viewBox="0 0 240 80" xmlns="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
   <style>
     .small { font: italic 13px sans-serif; }
     .heavy { font: bold 30px sans-serif; }
@@ -10,13 +10,13 @@ font: italic 40px serif; fill: red;
 opacity: 50%;
 transition: 1s
 }
-.jeffalo:hover{
-opacity: 100%;
-}
   </style>
 
   <text x="20" y="35" class="small">hello</text>
   <text x="50" y="35" class="heavy">i</text>
   <text x="55" y="55" class="small">am</text>
-  <text x="80" y="55" class="jeffalo">jeffalo!</text>
+
+  <a href='https://jeffalo.net'>
+    <text x="80" y="55" class="jeffalo">jeffalo!</text>
+  </a>
 </svg>
