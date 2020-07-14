@@ -20,4 +20,4 @@ My name is Jeffalo, I got into coding through Scratch, and my life has changed s
 - 🎉 favorite projects: [kahoot-gui](https://github.com/JeffaloBob/kahoot-gui), [noted](https://github.com/JeffaloBob/noted), [notifier](https://github.com/JeffaloBob/notifier), [is.wasteof.money](https://github.com/JeffaloBob/is.wasteof.money)
 - ⚡ fun fact: i use discord light mode! 😎
 
-![logout](https://raw.githubusercontent.com/JeffaloBob/JeffaloBob/master/cat.svg)
+![my name](https://raw.githubusercontent.com/JeffaloBob/JeffaloBob/master/cat.svg)
