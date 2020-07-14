@@ -1,10 +1,24 @@
-<svg version="1.1" id="loader-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-     width="40px" height="40px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
-     ...
-  <script type="text/javascript">
-        window.addEventListener('load',function(){
-        alert('Hi')
-        })
-    </script>   
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: none; display: block; shape-rendering: auto; animation-play-state: running; animation-delay: 0s;" width="200px" height="200px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+<g transform="translate(50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <g transform="scale(0.7)" style="animation-play-state: running; animation-delay: 0s;">
+    <g transform="translate(-50 -50)" style="animation-play-state: running; animation-delay: 0s;">
+      <g style="animation-play-state: running; animation-delay: 0s;" transform="rotate(239.409 50 50)">
+        <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" values="0 50 50;360 50 50" keyTimes="0;1" dur="1.25s" style="animation-play-state: running; animation-delay: 0s;"/>
+        <path fill-opacity="0.8" fill="#ffa123" d="M50 50L50 0A50 50 0 0 1 100 50Z" style="animation-play-state: running; animation-delay: 0s;"/>
+      </g>
+      <g style="animation-play-state: running; animation-delay: 0s;" transform="rotate(179.557 50 50)">
+        <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" values="0 50 50;360 50 50" keyTimes="0;1" dur="1.6666666666666665s" style="animation-play-state: running; animation-delay: 0s;"/>
+        <path fill-opacity="0.8" fill="#3d6bff" d="M50 50L50 0A50 50 0 0 1 100 50Z" transform="rotate(90 50 50)" style="animation-play-state: running; animation-delay: 0s;"/>
+      </g>
+      <g style="animation-play-state: running; animation-delay: 0s;" transform="rotate(119.704 50 50)">
+        <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" values="0 50 50;360 50 50" keyTimes="0;1" dur="2.5s" style="animation-play-state: running; animation-delay: 0s;"/>
+        <path fill-opacity="0.8" fill="#ffa123" d="M50 50L50 0A50 50 0 0 1 100 50Z" transform="rotate(180 50 50)" style="animation-play-state: running; animation-delay: 0s;"/>
+      </g>
+      <g style="animation-play-state: running; animation-delay: 0s;" transform="rotate(59.8522 50 50)">
+        <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" values="0 50 50;360 50 50" keyTimes="0;1" dur="5s" style="animation-play-state: running; animation-delay: 0s;"/>
+        <path fill-opacity="0.8" fill="#3d6bff" d="M50 50L50 0A50 50 0 0 1 100 50Z" transform="rotate(270 50 50)" style="animation-play-state: running; animation-delay: 0s;"/>
+      </g>
+    </g>
+  </g>
+</g>
 </svg>
