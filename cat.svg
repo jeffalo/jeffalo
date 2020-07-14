@@ -8,8 +8,8 @@
     .Rrrrr { font: italic 40px serif; fill: red; }
   </style>
 
-  <text x="20" y="35" class="small">My</text>
-  <text x="40" y="35" class="heavy">cat</text>
-  <text x="55" y="55" class="small">is</text>
-  <text x="65" y="55" class="Rrrrr">Grumpy!</text>
+  <text x="20" y="35" class="small">hello</text>
+  <text x="50" y="35" class="heavy">i</text>
+  <text x="55" y="55" class="small">am</text>
+  <text x="80" y="55" class="Rrrrr">jeffalo!</text>
 </svg>
