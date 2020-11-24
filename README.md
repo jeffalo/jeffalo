@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 My name is Jeffalo, I got into coding through Scratch, and my life has changed since.
 
 - 👨‍💻 website: [jeffalo.net](https://jeffalo.net)
-- 🎉 favorite projects: [kahoot-gui](https://github.com/JeffaloBob/kahoot-gui), [noted](https://github.com/JeffaloBob/noted), [notifier](https://github.com/JeffaloBob/notifier), [is.wasteof.money](https://github.com/JeffaloBob/is.wasteof.money)
+- 🎉 favorite projects: [kahoot-gui](https://github.com/jeffalo/kahoot-gui), [noted](https://github.com/jeffalo/noted), [notifier](https://github.com/jeffalo/notifier), [is.wasteof.money](https://github.com/jeffalo/is.wasteof.money)
 - ⚡ fun fact: i use discord light mode! 😎
