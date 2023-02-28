@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Jeffalo, I got into coding through Scratch, and my life has changed since.
+I'm Jeffalo, I got into coding through Scratch, and my life has changed since.
 
 - 👨‍💻 website: [jeffalo.net](https://jeffalo.net)
 - 🎉 favorite projects: [kahoot-gui](https://github.com/jeffalo/kahoot-gui), [noted](https://github.com/jeffalo/noted), [notifier](https://github.com/jeffalo/notifier), [is.wasteof.money](https://github.com/jeffalo/is.wasteof.money)
